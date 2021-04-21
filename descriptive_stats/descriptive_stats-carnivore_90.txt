@@ -1,0 +1,88 @@
+      RHR          Sleep.Rtn         Sleep          Soreness    
+ Min.   :49.00   Min.   :0.000   Min.   :1.000   Min.   :2.000  
+ 1st Qu.:52.50   1st Qu.:0.000   1st Qu.:3.000   1st Qu.:3.000  
+ Median :58.00   Median :1.000   Median :4.000   Median :4.000  
+ Mean   :57.32   Mean   :1.387   Mean   :3.645   Mean   :3.613  
+ 3rd Qu.:61.50   3rd Qu.:2.000   3rd Qu.:4.000   3rd Qu.:4.000  
+ Max.   :66.00   Max.   :3.000   Max.   :5.000   Max.   :5.000  
+ NA's   :2       NA's   :2       NA's   :2       NA's   :2      
+    Fatigue          Stress           Mood            AWQ       
+ Min.   :1.000   Min.   :2.000   Min.   :2.000   Min.   :10.00  
+ 1st Qu.:3.000   1st Qu.:4.000   1st Qu.:4.000   1st Qu.:16.00  
+ Median :4.000   Median :5.000   Median :4.000   Median :18.00  
+ Mean   :3.484   Mean   :4.323   Mean   :4.065   Mean   :17.71  
+ 3rd Qu.:4.000   3rd Qu.:5.000   3rd Qu.:5.000   3rd Qu.:21.00  
+ Max.   :5.000   Max.   :5.000   Max.   :5.000   Max.   :22.00  
+ NA's   :2       NA's   :2       NA's   :2       NA's   :2      
+   Cold.Time     Training.Load   Training.Time Training.Intensity
+ Min.   :0.000   Min.   : 30.0   Min.   : 15   Min.   :2.000     
+ 1st Qu.:1.000   1st Qu.: 65.0   1st Qu.: 25   1st Qu.:2.000     
+ Median :3.000   Median :110.0   Median : 35   Median :3.000     
+ Mean   :3.065   Mean   :145.1   Mean   : 49   Mean   :2.806     
+ 3rd Qu.:5.000   3rd Qu.:150.0   3rd Qu.: 55   3rd Qu.:3.000     
+ Max.   :8.000   Max.   :540.0   Max.   :180   Max.   :5.000     
+ NA's   :2       NA's   :2       NA's   :2     NA's   :2         
+   Perc.Work        Perc.Rest        Day.Total        Day.Work    
+ Min.   : 50.00   Min.   : 0.000   Min.   : 1.00   Min.   : 1.00  
+ 1st Qu.: 82.58   1st Qu.: 7.845   1st Qu.:10.50   1st Qu.: 8.50  
+ Median : 89.47   Median :10.530   Median :18.00   Median :16.00  
+ Mean   : 85.35   Mean   :14.649   Mean   :17.94   Mean   :15.97  
+ 3rd Qu.: 92.16   3rd Qu.:17.425   3rd Qu.:25.50   3rd Qu.:23.50  
+ Max.   :100.00   Max.   :50.000   Max.   :33.00   Max.   :30.00  
+ NA's   :2        NA's   :2        NA's   :2       NA's   :2      
+       O6               O3            O6.O3             VitD      
+ Min.   : 0.200   Min.   :0.100   Min.   : 0.080   Min.   : 1883  
+ 1st Qu.: 3.250   1st Qu.:0.400   1st Qu.: 3.470   1st Qu.: 3735  
+ Median : 5.300   Median :1.300   Median : 5.900   Median : 6951  
+ Mean   : 6.568   Mean   :1.535   Mean   : 9.103   Mean   : 8934  
+ 3rd Qu.: 8.800   3rd Qu.:2.000   3rd Qu.:14.690   3rd Qu.:10472  
+ Max.   :19.100   Max.   :8.000   Max.   :30.330   Max.   :30447  
+ NA's   :2        NA's   :2       NA's   :2        NA's   :2      
+     Se.ug           Zn.mg           Na.mg           Ca.mg       
+ Min.   :  4.5   Min.   : 0.00   Min.   : 1670   Min.   :  71.0  
+ 1st Qu.:216.5   1st Qu.: 9.00   1st Qu.: 3289   1st Qu.: 282.5  
+ Median :381.0   Median :27.00   Median : 5679   Median : 524.0  
+ Mean   :365.8   Mean   :26.65   Mean   : 5133   Mean   : 661.3  
+ 3rd Qu.:491.0   3rd Qu.:39.00   3rd Qu.: 6418   3rd Qu.: 758.5  
+ Max.   :798.0   Max.   :65.00   Max.   :10013   Max.   :4186.0  
+ NA's   :2       NA's   :2       NA's   :2       NA's   :2       
+     Mg.mg            K.mg         Elec.Net          Na.K       
+ Min.   : 24.0   Min.   : 380   Min.   : 5052   Min.   : 0.300  
+ 1st Qu.:160.0   1st Qu.:1756   1st Qu.: 7772   1st Qu.: 1.120  
+ Median :220.0   Median :2692   Median : 8559   Median : 2.030  
+ Mean   :271.3   Mean   :3035   Mean   : 9101   Mean   : 2.853  
+ 3rd Qu.:396.5   3rd Qu.:4049   3rd Qu.:10452   3rd Qu.: 3.170  
+ Max.   :684.0   Max.   :7339   Max.   :19605   Max.   :13.580  
+ NA's   :2       NA's   :2      NA's   :2       NA's   :2       
+    IGF.1                MAP             CVL         Caff.Dose    
+ Length:33          Min.   : 92.0   Min.   :5100   Min.   :  0.0  
+ Class :character   1st Qu.:102.5   1st Qu.:5670   1st Qu.: 42.5  
+ Mode  :character   Median :105.0   Median :5940   Median :240.0  
+                    Mean   :104.3   Mean   :5972   Mean   :305.2  
+                    3rd Qu.:107.5   3rd Qu.:6252   3rd Qu.:480.0  
+                    Max.   :111.0   Max.   :7128   Max.   :800.0  
+                    NA's   :2       NA's   :2      NA's   :2      
+   Caff.Time       Caff.Ratio        Kb.Load         Kb.Time     
+ Min.   : 0.00   Min.   : 0.000   Min.   :0.000   Min.   : 0.00  
+ 1st Qu.:30.00   1st Qu.: 1.410   1st Qu.:1.125   1st Qu.:14.76  
+ Median :30.00   Median : 8.000   Median :1.570   Median :15.22  
+ Mean   :39.68   Mean   : 7.125   Mean   :1.373   Mean   :15.72  
+ 3rd Qu.:60.00   3rd Qu.:10.415   3rd Qu.:1.665   3rd Qu.:16.18  
+ Max.   :90.00   Max.   :19.200   Max.   :1.770   Max.   :29.50  
+ NA's   :2       NA's   :2        NA's   :2       NA's   :2      
+   Kb.Weight        Protein           Fat         Fat.Protein   
+ Min.   : 0.00   Min.   :112.0   Min.   : 96.0   Min.   :0.770  
+ 1st Qu.:20.00   1st Qu.:198.0   1st Qu.:169.5   1st Qu.:1.335  
+ Median :25.00   Median :225.0   Median :192.0   Median :1.880  
+ Mean   :21.81   Mean   :240.9   Mean   :192.3   Mean   :1.979  
+ 3rd Qu.:25.00   3rd Qu.:283.5   3rd Qu.:222.5   3rd Qu.:2.510  
+ Max.   :30.00   Max.   :456.0   Max.   :266.0   Max.   :4.140  
+ NA's   :2       NA's   :2       NA's   :2       NA's   :2      
+  Blood.Sugar        Ketones          Fasted     
+ Min.   : 78.00   Min.   : 5.00   Min.   : 8.00  
+ 1st Qu.: 89.50   1st Qu.: 5.00   1st Qu.:12.00  
+ Median : 96.00   Median :10.00   Median :18.00  
+ Mean   : 95.26   Mean   :11.29   Mean   :16.16  
+ 3rd Qu.:100.50   3rd Qu.:15.00   3rd Qu.:19.50  
+ Max.   :113.00   Max.   :25.00   Max.   :25.00  
+ NA's   :2        NA's   :2       NA's   :2      

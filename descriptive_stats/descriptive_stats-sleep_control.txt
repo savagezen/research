@@ -1,0 +1,56 @@
+      Day       Sleep.Time     Sleep.Perc         REM            Light     
+ Min.   : 1   Min.   :5.97   Min.   :64.00   Min.   :1.250   Min.   :3.85  
+ 1st Qu.: 6   1st Qu.:7.13   1st Qu.:77.00   1st Qu.:1.550   1st Qu.:5.02  
+ Median :11   Median :7.62   Median :80.00   Median :1.770   Median :5.28  
+ Mean   :11   Mean   :7.56   Mean   :79.33   Mean   :1.731   Mean   :5.21  
+ 3rd Qu.:16   3rd Qu.:8.18   3rd Qu.:81.00   3rd Qu.:1.980   3rd Qu.:5.58  
+ Max.   :21   Max.   :8.85   Max.   :89.00   Max.   :2.350   Max.   :6.30  
+      Deep           Bed.Time      Bed.Zscore           Wake.Time    
+ Min.   :0.0800   Min.   :2138   Min.   :-4.600e-02   Min.   :559.0  
+ 1st Qu.:0.5200   1st Qu.:2155   1st Qu.:-3.900e-02   1st Qu.:659.0  
+ Median :0.5800   Median :2222   Median :-9.000e-03   Median :714.0  
+ Mean   :0.6338   Mean   :2241   Mean   :-4.762e-05   Mean   :706.9  
+ 3rd Qu.:0.7700   3rd Qu.:2300   3rd Qu.: 2.600e-02   3rd Qu.:737.0  
+ Max.   :1.2300   Max.   :2449   Max.   : 9.300e-02   Max.   :835.0  
+  Wake.Zscore            Fat.Perc       Prot.Perc       Carb.Perc   
+ Min.   :-2.090e-01   Min.   :49.00   Min.   :17.00   Min.   :0.00  
+ 1st Qu.:-6.800e-02   1st Qu.:68.00   1st Qu.:21.00   1st Qu.:0.00  
+ Median : 1.000e-02   Median :75.00   Median :24.00   Median :1.00  
+ Mean   : 4.762e-05   Mean   :72.71   Mean   :26.05   Mean   :1.19  
+ 3rd Qu.: 4.300e-02   3rd Qu.:78.00   3rd Qu.:30.00   3rd Qu.:2.00  
+ Max.   : 1.810e-01   Max.   :82.00   Max.   :50.00   Max.   :6.00  
+    Daily.Na        Daily.K        Daily.Mg        Daily.Ca     
+ Min.   : 5948   Min.   :1602   Min.   :164.0   Min.   : 211.0  
+ 1st Qu.: 7125   1st Qu.:2847   1st Qu.:212.0   1st Qu.: 359.0  
+ Median : 8259   Median :3617   Median :300.0   Median : 448.0  
+ Mean   : 8345   Mean   :3561   Mean   :283.5   Mean   : 680.8  
+ 3rd Qu.: 9296   3rd Qu.:4073   3rd Qu.:343.0   3rd Qu.: 549.0  
+ Max.   :10864   Max.   :5818   Max.   :447.0   Max.   :2139.0  
+      Na.K           Ca.Mg          Daily.Caff       Bed.Caff   
+ Min.   :2.000   Min.   : 1.000   Min.   :100.0   Min.   :1000  
+ 1st Qu.:2.000   1st Qu.: 1.000   1st Qu.:300.0   1st Qu.:1400  
+ Median :2.000   Median : 1.000   Median :400.0   Median :1630  
+ Mean   :2.476   Mean   : 2.524   Mean   :392.4   Mean   :1611  
+ 3rd Qu.:3.000   3rd Qu.: 2.000   3rd Qu.:500.0   3rd Qu.:1830  
+ Max.   :4.000   Max.   :10.000   Max.   :800.0   Max.   :2130  
+    Caff.Mg         Caff.Na         Caff.K          RHR             HRV       
+ Min.   :0.510   Min.   :0.01   Min.   :0.03   Min.   :62.00   Min.   :29.00  
+ 1st Qu.:0.890   1st Qu.:0.03   1st Qu.:0.07   1st Qu.:63.00   1st Qu.:42.00  
+ Median :1.170   Median :0.04   Median :0.10   Median :64.00   Median :49.00  
+ Mean   :1.504   Mean   :0.05   Mean   :0.12   Mean   :63.86   Mean   :48.24  
+ 3rd Qu.:1.760   3rd Qu.:0.07   3rd Qu.:0.15   3rd Qu.:65.00   3rd Qu.:54.00  
+ Max.   :3.740   Max.   :0.13   Max.   :0.29   Max.   :66.00   Max.   :70.00  
+       BR          Deep.Perc            REC1             REC2       
+ Min.   :13.00   Min.   :0.01100   Min.   :0.0060   Min.   :0.0760  
+ 1st Qu.:13.00   1st Qu.:0.07100   1st Qu.:0.0280   1st Qu.:0.3430  
+ Median :13.00   Median :0.07700   Median :0.0340   Median :0.4670  
+ Mean   :13.62   Mean   :0.08367   Mean   :0.0351   Mean   :0.4652  
+ 3rd Qu.:14.00   3rd Qu.:0.11400   3rd Qu.:0.0440   3rd Qu.:0.5690  
+ Max.   :15.00   Max.   :0.14900   Max.   :0.1010   Max.   :1.2150  
+      REC3       
+ Min.   :0.2560  
+ 1st Qu.:0.3750  
+ Median :0.4180  
+ Mean   :0.4192  
+ 3rd Qu.:0.4630  
+ Max.   :0.6760  
